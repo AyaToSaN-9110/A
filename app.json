@@ -1,8 +1,8 @@
 {
-  "name": "( غـوجـو )",
+  "name": "( تـيـمـون )",
     "description": "Customizable WhatsApp Bot",
    "repository": "https://github.com/Raizel-2023/Gojo-Satoru",
-  "logo": "https://telegra.ph/file/4c2c0174e86ac3bac2ba8.jpg",
+  "logo": "https://telegra.ph/file/5fa44c1eee82661750fd5.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
